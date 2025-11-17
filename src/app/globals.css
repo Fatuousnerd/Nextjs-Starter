@@ -37,6 +37,11 @@ a {
   text-decoration: none;
 }
 
+input,
+button {
+  outline: none;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
